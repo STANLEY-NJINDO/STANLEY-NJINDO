@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STANLEY-NJINDO
 - 👀 I’m interested in arduino/electronics/building cool stuff
-- 🌱 I’m currently learning Telecommunication Engineering
+- 🌱 I’m currently learning Telecommunication and Information Engineering
 
 ![IMG-20240609-WA0032](https://github.com/user-attachments/assets/5901aaf2-2223-4d1a-92fe-d87b3f6ce59b)
 
