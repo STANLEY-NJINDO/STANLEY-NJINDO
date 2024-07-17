@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in PCB Designing/Embedded Engineering/microelectronics/building cool stuff
 
-- 🌱 I’m currently learning Telecommunication and Information Engineering
+- 🌱 I’m currently a student pursuing a course in Telecommunication and Information Engineering
 
 <!---
 STANLEY-NJINDO/STANLEY-NJINDO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
