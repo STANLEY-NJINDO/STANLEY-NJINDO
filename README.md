@@ -5,7 +5,9 @@
 </div>
 
 - 👋 Hi, I’m @STANLEY-NJINDO
-- 👀 I’m interested in arduino/electronics/building cool stuff
+
+- 👀 I’m interested in PCB Designing/Embedded Engineering/microelectronics/building cool stuff
+
 - 🌱 I’m currently learning Telecommunication and Information Engineering
 
 <!---
