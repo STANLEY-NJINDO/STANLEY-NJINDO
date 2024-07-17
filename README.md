@@ -2,7 +2,9 @@
 - 👀 I’m interested in arduino/electronics/building cool stuff
 - 🌱 I’m currently learning Telecommunication and Information Engineering
 
-![IMG-20240609-WA0032](https://github.com/user-attachments/assets/5901aaf2-2223-4d1a-92fe-d87b3f6ce59b)
+<div id="header" align="center">
+  <img src=https://media3.giphy.com/media/z6OEupGGKZLImundLN/giphy.gif?cid=6c09b952dyxf9z5jzr4dx032kzc84hy8ckh779yw6purf31d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=gif" width="100"/>
+</div>
 
 <!---
 STANLEY-NJINDO/STANLEY-NJINDO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
