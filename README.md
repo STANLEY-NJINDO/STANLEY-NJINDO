@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/IyadY5i6owme9BThIm/giphy.gif" width="1000"/>
+  <img src="https://media2.giphy.com/media/IyadY5i6owme9BThIm/giphy.gif" width="500"/>
 </div>
 
 - 👋 Hi, I’m @STANLEY-NJINDO
